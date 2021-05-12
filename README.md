@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rozinoer
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C / C++ / Python
+- 🌱 I’m currently learning C / C++ / Python / React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me | geniya59@gmail.com |
 
