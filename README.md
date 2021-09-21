@@ -1,3 +1,5 @@
+[![dmyesha's 42 stats](https://badge42.herokuapp.com/api/stats/dmyesha?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 - 👋 Hi, I’m @Rozinoer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C / C++ / Python / React Native
