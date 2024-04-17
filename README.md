@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Rozinoer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python DS / React + TS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on [a link](https://github.com/kekas13)
 - 📫 How to reach me | geniya59@gmail.com |
 
 😈😈😈 skills 😈😈😈 
