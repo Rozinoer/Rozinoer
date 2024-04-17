@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Rozinoer
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python DS / TS + ReactJS
+- 🌱 I’m currently learning Python DS / React + TS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me | geniya59@gmail.com |
 
